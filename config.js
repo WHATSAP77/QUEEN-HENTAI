@@ -7,8 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['8301926187', 'GUARDIANff', true],
   [''] 
 ] //Number of owners
 
@@ -53,7 +52,7 @@ global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
+global.fgsc = 'https://github.com/' 
 global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
