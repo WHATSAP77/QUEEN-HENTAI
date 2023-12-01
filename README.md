@@ -28,7 +28,7 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 1. 🇱🇰 Fork Queen Hentai Git 🇱🇰
     <br>
-<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/WHATSAP77/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -47,7 +47,7 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/QUEEN-HENTAI)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WHATSAP77/QUEEN-HENTAI)
 ---------
 
 ## ```HEROKU TUTORIAL```
